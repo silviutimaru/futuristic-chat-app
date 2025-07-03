@@ -7,8 +7,8 @@ const USER_ID = "6866a789ed224bc42820cbc9";
 const OTHER_USER_ID = "6866a8a0cca934b2567caac1";
 const GENERAL_ROOM_ID = "6866ddcbef2398c4c05d9ed2"; // <--- Your General Room ID
 
-const API_BASE = "http://localhost:3000";
-const SOCKET_SERVER_URL = "http://localhost:3000";
+const API_BASE = "https://futuristic-chat-app-production.up.railway.app";
+const SOCKET_SERVER_URL = "https://futuristic-chat-app-production.up.railway.app";
 
 const SUPPORTED_LANGUAGES = [
   { code: "en", name: "English" },
